@@ -22,7 +22,7 @@ BugReports: https://github.com/jonclayden/RNiftyReg/issues
 Encoding: UTF-8
 RoxygenNote: 7.1.0
 Roxygen: list(old_usage=TRUE)
+biocViews:
 Repository: Neuroconductor-Devel
 Remotes: 
     neuroconductor-devel/RNifti@49867d05b1022b8c339abef44c3da2aafa59fa56
-biocViews: 
