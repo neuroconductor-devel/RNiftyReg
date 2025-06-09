@@ -4,3 +4,7 @@
 ^\.github$
 ^\.covrignore$
 ^compile_commands.json$
+^DESCRIPTION\.bak$
+^autoci\.yml$
+^autoci_pkgdown\.yml$
+^tic\.R$
